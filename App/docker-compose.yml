@@ -1,6 +1,5 @@
 services:
   inc-bot:
-    image: inc-bot-image
     build:
       context: .
       dockerfile: Dockerfile
